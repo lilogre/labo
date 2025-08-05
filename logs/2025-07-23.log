@@ -1,0 +1,21 @@
+2025-07-23 15:12:24 - INFO - Starting data acquisition and processing script.
+2025-07-23 15:12:24 - INFO - Audio loaded successfully from ./example_data/Recording5.mp3
+2025-07-23 15:12:32 - INFO - Data successfully written to datafiles\20250723_AudioData.xlsx.
+2025-07-23 15:12:32 - INFO - Workbook closed.
+2025-07-23 15:12:32 - INFO - Data acquisition and processing completed successfully.
+2025-07-23 15:12:32 - INFO - Script completed successfully.
+2025-07-23 15:12:32 - INFO - Exiting script.
+2025-07-23 15:13:07 - INFO - Starting data acquisition and processing script.
+2025-07-23 15:13:07 - INFO - Audio loaded successfully from ./example_data/Recording5.wav
+2025-07-23 15:13:12 - INFO - Data successfully written to datafiles\20250723_AudioData.xlsx.
+2025-07-23 15:13:12 - INFO - Workbook closed.
+2025-07-23 15:13:12 - INFO - Data acquisition and processing completed successfully.
+2025-07-23 15:13:12 - INFO - Script completed successfully.
+2025-07-23 15:13:12 - INFO - Exiting script.
+2025-07-23 15:20:50 - INFO - Starting data acquisition and processing script.
+2025-07-23 15:20:50 - INFO - Audio loaded successfully from ./example_data/Recording6.mp3
+2025-07-23 15:20:55 - INFO - Data successfully written to datafiles\20250723_AudioData.xlsx.
+2025-07-23 15:20:55 - INFO - Workbook closed.
+2025-07-23 15:20:55 - INFO - Data acquisition and processing completed successfully.
+2025-07-23 15:20:55 - INFO - Script completed successfully.
+2025-07-23 15:20:55 - INFO - Exiting script.

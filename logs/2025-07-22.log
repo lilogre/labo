@@ -1,0 +1,57 @@
+2025-07-22 16:17:10 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:17:10 - ERROR - Error loading audio: Error opening './example_data/Recording.m4a': Format not recognised.
+2025-07-22 16:17:10 - ERROR - An error occurred: AnalyzeAudio failed
+2025-07-22 16:17:10 - INFO - Exiting script.
+2025-07-22 16:19:04 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:19:04 - ERROR - Error loading audio: Error opening './example_data/Recording.m4a': System error.
+2025-07-22 16:19:04 - ERROR - An error occurred: AnalyzeAudio failed
+2025-07-22 16:19:04 - INFO - Exiting script.
+2025-07-22 16:19:14 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:19:14 - INFO - Audio loaded successfully from ./example_data/Recording.mp3
+2025-07-22 16:19:22 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:19:22 - INFO - Workbook closed.
+2025-07-22 16:19:22 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:19:22 - INFO - Script completed successfully.
+2025-07-22 16:19:22 - INFO - Exiting script.
+2025-07-22 16:22:37 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:22:37 - INFO - Audio loaded successfully from ./example_data/Recording2.mp3
+2025-07-22 16:22:41 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:22:41 - INFO - Workbook closed.
+2025-07-22 16:22:41 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:22:41 - INFO - Script completed successfully.
+2025-07-22 16:22:41 - INFO - Exiting script.
+2025-07-22 16:26:29 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:26:29 - INFO - Audio loaded successfully from ./example_data/Recording3.mp3
+2025-07-22 16:26:32 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:26:32 - INFO - Workbook closed.
+2025-07-22 16:26:32 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:26:32 - INFO - Script completed successfully.
+2025-07-22 16:26:32 - INFO - Exiting script.
+2025-07-22 16:29:23 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:29:23 - INFO - Audio loaded successfully from ./example_data/Recording4.mp3
+2025-07-22 16:29:27 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:29:27 - INFO - Workbook closed.
+2025-07-22 16:29:27 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:29:27 - INFO - Script completed successfully.
+2025-07-22 16:29:27 - INFO - Exiting script.
+2025-07-22 16:36:37 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:36:37 - INFO - Audio loaded successfully from ./example_data/440Hz.mp3
+2025-07-22 16:36:41 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:36:41 - INFO - Workbook closed.
+2025-07-22 16:36:41 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:36:41 - INFO - Script completed successfully.
+2025-07-22 16:36:41 - INFO - Exiting script.
+2025-07-22 16:36:52 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:36:52 - INFO - Audio loaded successfully from ./example_data/1kHz.mp3
+2025-07-22 16:36:57 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:36:57 - INFO - Workbook closed.
+2025-07-22 16:36:57 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:36:57 - INFO - Script completed successfully.
+2025-07-22 16:36:57 - INFO - Exiting script.
+2025-07-22 16:39:22 - INFO - Starting data acquisition and processing script.
+2025-07-22 16:39:22 - INFO - Audio loaded successfully from ./example_data/440Hz.mp3
+2025-07-22 16:39:25 - INFO - Data successfully written to datafiles\20250722_AudioData.xlsx.
+2025-07-22 16:39:25 - INFO - Workbook closed.
+2025-07-22 16:39:25 - INFO - Data acquisition and processing completed successfully.
+2025-07-22 16:39:25 - INFO - Script completed successfully.
+2025-07-22 16:39:25 - INFO - Exiting script.

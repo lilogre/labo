@@ -1,0 +1,61 @@
+2025-07-18 08:30:16 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:30:16 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:36:47 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:36:47 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:36:52 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 08:36:52 - INFO - Script completed successfully.
+2025-07-18 08:36:52 - INFO - Exiting script.
+2025-07-18 08:44:00 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:44:00 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:44:05 - ERROR - An error occurred: object of type 'numpy.float32' has no len()
+2025-07-18 08:44:05 - INFO - Exiting script.
+2025-07-18 08:51:40 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:51:40 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:51:45 - ERROR - An error occurred: object of type 'numpy.float32' has no len()
+2025-07-18 08:51:45 - INFO - Exiting script.
+2025-07-18 08:53:25 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:53:25 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:53:30 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 08:53:30 - INFO - Workbook closed.
+2025-07-18 08:53:30 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 08:53:30 - INFO - Script completed successfully.
+2025-07-18 08:53:30 - INFO - Exiting script.
+2025-07-18 08:57:37 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:57:37 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:57:43 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 08:57:43 - INFO - Workbook closed.
+2025-07-18 08:57:43 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 08:57:43 - INFO - Script completed successfully.
+2025-07-18 08:57:43 - INFO - Exiting script.
+2025-07-18 08:58:39 - INFO - Starting data acquisition and processing script.
+2025-07-18 08:58:39 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 08:58:44 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 08:58:44 - INFO - Workbook closed.
+2025-07-18 08:58:44 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 08:58:44 - INFO - Script completed successfully.
+2025-07-18 08:58:44 - INFO - Exiting script.
+2025-07-18 09:01:07 - INFO - Starting data acquisition and processing script.
+2025-07-18 09:01:07 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 09:01:13 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 09:01:13 - INFO - Workbook closed.
+2025-07-18 09:01:13 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 09:01:13 - INFO - Script completed successfully.
+2025-07-18 09:01:13 - INFO - Exiting script.
+2025-07-18 09:02:25 - INFO - Starting data acquisition and processing script.
+2025-07-18 09:02:25 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 09:02:30 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 09:02:30 - INFO - Workbook closed.
+2025-07-18 09:02:30 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 09:02:30 - INFO - Script completed successfully.
+2025-07-18 09:02:30 - INFO - Exiting script.
+2025-07-18 09:05:29 - INFO - Starting data acquisition and processing script.
+2025-07-18 09:05:29 - INFO - Image loaded successfully from ./example_data/test.jpg
+2025-07-18 09:05:29 - INFO - Region Of Interest selected at (500, 1000)x(1000, 1500)
+2025-07-18 09:05:30 - INFO - Data successfully written to datafiles\20250718_ImageData.xlsx.
+2025-07-18 09:05:30 - INFO - Workbook closed.
+2025-07-18 09:05:30 - INFO - Audio loaded successfully from ./example_data/test.mp3
+2025-07-18 09:05:36 - INFO - Data successfully written to datafiles\20250718_AudioData.xlsx.
+2025-07-18 09:05:36 - INFO - Workbook closed.
+2025-07-18 09:05:36 - INFO - Data acquisition and processing completed successfully.
+2025-07-18 09:05:36 - INFO - Script completed successfully.
+2025-07-18 09:05:36 - INFO - Exiting script.
